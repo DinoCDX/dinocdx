@@ -1,23 +1,89 @@
-# DinoCDX portfolio
+<div align="center">
 
-Static site, no build step. Upload the whole folder to the GitHub Pages repo.
+<img src="https://dinocdx.github.io/assets/banner.svg" alt="Hi, I'm DinoCDX. Android apps and Discord bots." width="100%">
 
-## Files
-- `index.html` page markup
-- `style.css` all styles
-- `script.js` renders the cards, carousel, filters and effects
-- `assets/` images (favicon, hero picture, Minigames Ahoy! icon)
-- `projects/` one file per project card
-- `novels/` one file per novel
+<br>
 
-## Add a project
-1. Copy any file in `projects/` and rename it.
-2. Edit its fields. `cats` controls the filter chips (`android`, `discord`, `godot`).
-3. Add a `<script src="projects/your-file.js"></script>` line in `index.html` next to the others. Order of the lines is the order of the cards.
+● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■
 
-## Add a novel
-1. Copy any file in `novels/` and edit `initials`, `title`, `author`, `blurb` and `status`.
-2. Add a `<script src="novels/your-file.js"></script>` line in `index.html`.
+I'm a college student who builds Android apps and Discord bots.<br>
+Python is what I'm strongest in, I'm learning Kotlin, and I read a lot of webnovels.
 
-## New filter chip
-Add a button with `data-f="yourcategory"` to the `.chips` group in `index.html`, then use that category in a project's `cats`.
+<br>
+
+<a href="https://dinocdx.github.io"><img src="https://img.shields.io/badge/Visit_my_site-dinocdx.github.io-5a2c97?style=for-the-badge" alt="Visit my site"></a>
+<a href="mailto:dinocdxreal@gmail.com"><img src="https://img.shields.io/badge/Email-dinocdxreal@gmail.com-e463a8?style=for-the-badge" alt="Email me"></a>
+
+</div>
+
+<br>
+
+## ● Projects
+
+<img align="right" src="https://dinocdx.github.io/discord-presence-manager/assets/icon-512.png" width="72" alt="Discord Presence Manager icon">
+
+### Discord Presence Manager
+
+Puts what you're doing on your Android phone into your Discord status: the music, the video, the game or app you have open.
+
+`Android 10+` `Kotlin` `Material 3 Expressive`
+
+[Website](https://dinocdx.github.io/discord-presence-manager/) · [GitHub](https://github.com/DinoCDX/discord-presence-manager)
+
+<br>
+
+<img align="right" src="https://dinocdx.github.io/GUMMM/icon.svg" width="72" alt="GUMMM icon">
+
+### GUMMM
+
+Godot Universal Mod Manager Mobile. Add mods to Godot 3 and 4 games on Android, with no PC. It patches the game, signs it and installs it next to the original.
+
+`Android 9+` `Godot` `Mobile port of GUMM`
+
+[Website](https://dinocdx.github.io/GUMMM/) · [Download](https://github.com/DinoCDX/GUMMM/releases/latest) · [GitHub](https://github.com/DinoCDX/GUMMM)
+
+<br>
+
+<img align="right" src="https://dinocdx.github.io/assets/minigames-ahoy.png" width="72" alt="Minigames Ahoy! icon">
+
+### Minigames Ahoy!
+
+Add Minigames Ahoy! to your Discord server. Use the community hub to ask questions, suggest games and features, and read official update announcements.
+
+`Discord` `Suggestions` `Announcements`
+
+[Add to Discord](https://discord.com/oauth2/authorize?client_id=1442543093634039859) · [Open issues](https://github.com/DinoCDX/minigames-ahoy-issues/issues)
+
+<br>
+
+## ◆ What I use
+
+<img src="https://img.shields.io/badge/Python-5a2c97?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Kotlin-8f78f0?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/Jetpack_Compose-5a2c97?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+<img src="https://img.shields.io/badge/Material_3-8f78f0?style=flat-square&logo=materialdesign&logoColor=white" alt="Material 3">
+<img src="https://img.shields.io/badge/Android-5a2c97?style=flat-square&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/Discord_bots-8f78f0?style=flat-square&logo=discord&logoColor=white" alt="Discord bots">
+<img src="https://img.shields.io/badge/Godot_modding-5a2c97?style=flat-square&logo=godotengine&logoColor=white" alt="Godot modding">
+<img src="https://img.shields.io/badge/HTML_CSS_JS-8f78f0?style=flat-square" alt="HTML, CSS and JavaScript">
+
+<br>
+
+## ▲ GitHub stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DinoCDX&show_icons=true&hide_border=true&theme=transparent&title_color=8f78f0&icon_color=8f78f0&text_color=8b8b9a&border_radius=28" alt="GitHub stats" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoCDX&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=8f78f0&text_color=8b8b9a&border_radius=28" alt="Top languages" height="170">
+</p>
+
+<br>
+
+## ■ Say hi
+
+Bug reports, feature ideas and novel recommendations are all welcome. Email me at [dinocdxreal@gmail.com](mailto:dinocdxreal@gmail.com) or open an issue on any project.
+
+<div align="center">
+
+● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■
+
+</div>
