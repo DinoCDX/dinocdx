@@ -11,7 +11,7 @@ Python is what I'm strongest in, I'm learning Kotlin, and I read a lot of webnov
 
 <br>
 
-<a href="https://dinocdx.github.io"><img src="https://img.shields.io/badge/Visit_my_site-dinocdx.github.io-5a2c97?style=for-the-badge" alt="Visit my site"></a>
+<a href="https://dinocdx.github.io/dinocdx/"><img src="https://img.shields.io/badge/Visit_my_site-dinocdx.github.io-5a2c97?style=for-the-badge" alt="Visit my site"></a>
 <a href="mailto:dinocdxreal@gmail.com"><img src="https://img.shields.io/badge/Email-dinocdxreal@gmail.com-e463a8?style=for-the-badge" alt="Email me"></a>
 
 </div>
