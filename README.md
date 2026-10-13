@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://dinocdx.github.io/assets/banner.svg" alt="Hi, I'm DinoCDX. Android apps and Discord bots." width="100%">
+<img src="assets/banner.svg" alt="Hi, I'm DinoCDX. Android apps and Discord bots." width="100%">
 
 <br>
 
@@ -44,7 +44,7 @@ Godot Universal Mod Manager Mobile. Add mods to Godot 3 and 4 games on Android, 
 
 <br>
 
-<img align="right" src="https://dinocdx.github.io/assets/minigames-ahoy.png" width="72" alt="Minigames Ahoy! icon">
+<img align="right" src="assets/minigames-ahoy.png" width="72" alt="Minigames Ahoy! icon">
 
 ### Minigames Ahoy!
 
@@ -66,15 +66,6 @@ Add Minigames Ahoy! to your Discord server. Use the community hub to ask questio
 <img src="https://img.shields.io/badge/Discord_bots-8f78f0?style=flat-square&logo=discord&logoColor=white" alt="Discord bots">
 <img src="https://img.shields.io/badge/Godot_modding-5a2c97?style=flat-square&logo=godotengine&logoColor=white" alt="Godot modding">
 <img src="https://img.shields.io/badge/HTML_CSS_JS-8f78f0?style=flat-square" alt="HTML, CSS and JavaScript">
-
-<br>
-
-## ▲ GitHub stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DinoCDX&show_icons=true&hide_border=true&theme=transparent&title_color=8f78f0&icon_color=8f78f0&text_color=8b8b9a&border_radius=28" alt="GitHub stats" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoCDX&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=8f78f0&text_color=8b8b9a&border_radius=28" alt="Top languages" height="170">
-</p>
 
 <br>
 
